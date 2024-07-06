@@ -2,7 +2,7 @@ const CompetitionSchedule = () => {
     return (
         <div className = "home">
             <h2> Here's the competition schedule for 2024 - 2025! </h2>
-            <p> If you see your name on the <a href = "/hcml-teams"> HCML teams</a> for that week, please report to room 220 after school on the day of the competition! </p>
+            <p> If you see your name on the <a href = "/hcml-teams"> HCML teams </a> for that week, please report to room 220 after school on the day of the competition! </p>
             <table> 
                 <tr>
                     <th> Date </th>

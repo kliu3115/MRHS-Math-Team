@@ -8,7 +8,7 @@ const Navbar = () => {
                 <a href = "/hcml-teams"> HCML </a>
                 <a href = "/resources"> Resources </a>
                 <a href = "/mvms-math-team"> MVMS </a>
-                <a href = "/contact"> Contact </a>
+                <a href = "/faq"> FAQ </a>
                 <a href = "/about"> About </a>
             </div>
         </nav>

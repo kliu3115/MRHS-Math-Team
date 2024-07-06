@@ -30,6 +30,19 @@ const About = () => {
             <h1> Juho Bay </h1>
             <h2> Captain </h2>
             <p> hello i like math : ] </p>
+            <br />
+            <h1> Contact us with any questions! </h1> 
+            <br />
+            <h2> Feel free to email any of the captains! </h2> 
+            <h3> Juho Bay: urmom@gmail.com </h3>
+            <h3> Kelly Liu: deeznuts@gmail.com </h3>
+            <br />
+            <h2> Join our Discord for updates! </h2>
+            <h3> <a href = 'https://discord.gg/dcxVA3VnFC'> https://discord.gg/dcxVA3VnFC </a> </h3>
+            <br />
+            <a href = "https://discord.gg/dcxVA3VnFC"> 
+                <img src={'https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png'} height = "150" width = "150"/>
+            </a>
         </div>
     )
 }

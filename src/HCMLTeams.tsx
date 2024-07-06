@@ -2,6 +2,7 @@ const HCMLTeams = () => {
     return (
         <div className = "hcml">
             <h2> Here are the teams for the ____ HCML! </h2>
+            <br />
             <table> 
                 <tr>
                     <th> Team # </th>

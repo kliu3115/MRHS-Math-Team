@@ -1,9 +1,14 @@
 const MVMSMathTeam = () => {
     return (
         <div className = "mvms">
-            <h1> Meetings will take place in Ms. Mako's room after school on Mondays! </h1>
-            <br />
-            <a href = 'https://calendar.google.com/calendar/u/0?cid=ZTIwOGE4N2U0NzRhMTlhZWVhYTM3NzViODRkNjI3YTNiOThlYjBkMjI5MjYzNjVjZTc2OTdkZjlhZTE5ODE5MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t'> <h2> Meeting/Competition Schedule </h2> </a>
+            <h1> Meetings in Ms. Mako's room after school on Mondays! </h1> 
+            <a href = "https://calendar.google.com/calendar/u/0?cid=ZTIwOGE4N2U0NzRhMTlhZWVhYTM3NzViODRkNjI3YTNiOThlYjBkMjI5MjYzNjVjZTc2OTdkZjlhZTE5ODE5MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"> 
+                <img src={'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/768px-Google_Calendar_icon_%282020%29.svg.png'} height = "30" width = "30"/>
+            </a>
+            <br /> <br />
+            <h1> Resources: </h1>
+            <h2> Join our mailing list! </h2>
+            <a href = 'https://forms.gle/ShrESBLvHGvKXcqe7'> https://forms.gle/ShrESBLvHGvKXcqe7 </a>
             <br /> <br />
             <h2> Mathcounts </h2> 
             <a href = 'https://mathcounts.org/programs/mathcounts-competition-series'> MathCounts Information </a> 

@@ -5,7 +5,7 @@ import HCMLTeams from './HCMLTeams'
 import Resources from './Resources'
 import MVMSMathTeam from './MVMSMathTeam'
 import About from './About'
-import Contact from './Contact'
+import FAQ from './FAQ'
 import Footer from './Footer'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 
@@ -17,8 +17,8 @@ function App() {
         <Navbar />
         <div className = "content">
           <Switch>
-            <Route path = "/contact">
-              <Contact />
+            <Route path = "/faq">
+              <FAQ />
             </Route>
             <Route path = "/about">
               <About />

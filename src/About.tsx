@@ -22,12 +22,12 @@ const About = () => {
         </div>    */
         <div className = "about">
             <img src={'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png'} height = "200" width = "200"/>
-            <h1> Kelly Liu </h1>
-            <h2> Captain & Web Developer </h2>
+            <h1> Juho Bay </h1>
+            <h2> Captain </h2>
             <p> hello i like math : ] </p>
             <br />
             <img src={'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png'} height = "200" width = "200"/>
-            <h1> Juho Bay </h1>
+            <h1> Kelly Liu </h1>
             <h2> Captain </h2>
             <p> hello i like math : ] </p>
             <br />
@@ -43,6 +43,8 @@ const About = () => {
             <a href = "https://discord.gg/dcxVA3VnFC"> 
                 <img src={'https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png'} height = "150" width = "150"/>
             </a>
+            <br /> <br />
+            <p> Website designed by Kelly Liu. </p>
         </div>
     )
 }

@@ -1,9 +1,8 @@
 const Navbar = () => {
     return (
         <nav className = "navbar">
-            <h1>MRHS Math Team</h1>
+            <a href = "/"><h1>MRHS Math Team</h1></a>
             <div className = "links"> 
-                <a href = "/"> Home </a>
                 <a href = "/competition-schedule"> Competitions </a>
                 <a href = "/hcml-teams"> HCML </a>
                 <a href = "/resources"> Resources </a>

@@ -34,8 +34,8 @@ const About = () => {
             <h1> Contact us with any questions! </h1> 
             <br />
             <h2> Feel free to email any of the captains! </h2> 
-            <h3> Juho Bay: urmom@gmail.com </h3>
-            <h3> Kelly Liu: deeznuts@gmail.com </h3>
+            <h3> Juho Bay: juhobay@gmail.com </h3>
+            <h3> Kelly Liu: kliu3115@gmail.com </h3>
             <br />
             <h2> Join our Discord for updates! </h2>
             <h3> <a href = 'https://discord.gg/dcxVA3VnFC'> https://discord.gg/dcxVA3VnFC </a> </h3>

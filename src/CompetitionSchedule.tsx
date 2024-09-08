@@ -18,9 +18,25 @@ const CompetitionSchedule = () => {
                     <td> Centennial </td> 
                 </tr> 
                 <tr> 
+                    <td> 10/22 </td>
+                    <td> UMD Part I </td> 
+                </tr> 
+                <tr> 
+                    <td> 11/6 </td>
+                    <td> AMC 10/12 A</td> 
+                </tr> 
+                <tr> 
+                    <td> 11/12 </td>
+                    <td> AMC 10/12 B </td> 
+                </tr> 
+                <tr> 
                     <td> 11/13 </td>
                     <td> Howard </td> 
                 </tr>
+                <tr> 
+                    <td> 12/4 </td>
+                    <td> UMD Part II </td> 
+                </tr> 
                 <tr> 
                     <td> 12/4 </td>
                     <td> Hammond </td> 

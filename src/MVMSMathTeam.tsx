@@ -7,9 +7,6 @@ const MVMSMathTeam = () => {
             </a>
             <br /> <br />
             <h1> Resources: </h1>
-            <h2> Join our mailing list! </h2>
-            <a href = 'https://forms.gle/ShrESBLvHGvKXcqe7'> https://forms.gle/ShrESBLvHGvKXcqe7 </a>
-            <br /> <br />
             <h2> Mathcounts </h2> 
             <a href = 'https://mathcounts.org/programs/mathcounts-competition-series'> MathCounts Information </a> 
             <br />

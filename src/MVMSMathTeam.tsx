@@ -16,6 +16,9 @@ const MVMSMathTeam = () => {
             <br />
             <a href = 'https://artofproblemsolving.com/mathcounts_trainer'> MathCounts Trainer </a>
             <br /> <br />
+            <h2> Math league </h2> 
+            <a href = 'https://mathleague.org/ms.php'> Math League Information </a> 
+            <br /> <br />
             <h2> AMC 8 </h2> 
             <a href = 'https://artofproblemsolving.com/wiki/index.php/AMC_8'> AMC 8 Information & Resources </a>
             <br />

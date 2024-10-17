@@ -4,17 +4,17 @@ const Home = () => {
         <div className = "home">
             <h2>Welcome to the MRHS Math Team!</h2>
             <br />
-            <h2> HCML #2 Interest Form is out! Please fill out the Google Form if you would like to participate! </h2>
-            <h3> When: 10/16 from 2:35pm - 5:00pm</h3>
+            <h2> UMD Math Competition Interest Form is out! Please fill out the Google Form if you would like to participate! </h2>
+            <h3> When: 10/22 during 5th & 6th period</h3>
             <h3>Where: Room 220</h3>
-            <h2 className="emphasis"><a style={{color: 'blue'}} href="https://forms.gle/F7D1P8zY4p1GztK5A"> https://forms.gle/F7D1P8zY4p1GztK5A </a></h2>
+            <h2 className="emphasis"><a style={{color: 'blue'}} href="https://forms.gle/t5gRsRVt7pyjt5r89"> https://forms.gle/t5gRsRVt7pyjt5r89 </a></h2>
             <br />
             <h2> General Information: </h2>
-            <h3> Teams will likely be posted in <a href='/hcml-teams'> HCML Teams</a> sometime on Monday/Tuesday so check back then! </h3>
+            <h3> Test Format & Length: 25 Multiple Choice, 75 Minutes </h3>
             <br />
-            <h3> The meet will be held virtually so we can take 30 people since transportation will not be an issue. </h3>
+            <h3> This test is recommended for anyone who wants to take AMC in mid-November as they are very similar in format. </h3>
             <br />
-            <h3> If you are not competing, there will be no meeting this week so please enjoy your week off! We will pick up next week, 10/23 and go over the problems from HCML 2! </h3>           
+            <h3> Although there aren't many past UMD Math Competitions released, there are tons of past AMC exams available, so you can always use those to study! :) </h3>           
         </div>    
     )
 }

@@ -7,6 +7,7 @@ const MVMSMathTeam = () => {
             </a>
             <br /> <br />
             <h1> Resources: </h1>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1xui7u3dyMQZjfEAI1UjR5AlZRiCC28xlwqTyF2UfDdDyCD9zGsZajVDKEND4RFXsR_FaKeaoDe5N/embed?start=false&amp;loop=false&amp;delayms=3000&amp;rm=minimal" width="720" height="480"/>
             <h2> Mathcounts </h2> 
             <a href = 'https://mathcounts.org/programs/mathcounts-competition-series'> MathCounts Information </a> 
             <br />
